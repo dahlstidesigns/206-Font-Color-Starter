@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/-----MAIN-CONTENT DEFAULT MOBILE-----/
+/*-----MAIN-CONTENT DEFAULT MOBILE-----*/
 body, html {
   text-align: center;
   font-family: Gotham, Helvetica, Arial, sans-serif;
@@ -29,7 +29,7 @@ p {
   width: device-width;
 }
 
-/----------TABLET----------/
+/*----------TABLET----------*/
 @media (min-width: 768px) {
 
 section {
@@ -47,7 +47,7 @@ section {
 }
 
 
-/---------DESKTOP---------/
+/*---------DESKTOP---------*/
 @media (min-width: 1200px) {
 
   h1 {
